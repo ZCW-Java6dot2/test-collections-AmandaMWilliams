@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec7e120-662f-4444-a549-ab07312cf3a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/ArrayDequeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.ArrayListTest.ArrayListTest">
+  <component name="RunManager" selected="JUnit.ArrayDequeTest.arrayDequeTest">
     <configuration name="AppTest.testApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gettestie" />
       <extension name="coverage">
@@ -48,6 +48,22 @@
       <option name="PACKAGE_NAME" value="rocks.zipcode" />
       <option name="MAIN_CLASS_NAME" value="rocks.zipcode.AppTest" />
       <option name="METHOD_NAME" value="testApp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDequeTest.arrayDequeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gettestie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.ArrayDequeTest" />
+      <option name="METHOD_NAME" value="arrayDequeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayDequeTest.arrayDequeTest" />
         <item itemvalue="JUnit.ArrayListTest.ArrayListTest" />
         <item itemvalue="JUnit.AppTest.testApp" />
       </list>
@@ -94,26 +111,26 @@
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state x="-1057" y="150" width="938" height="510" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606075546965" />
-    <state width="1297" height="199" key="GridCell.Tab.0.bottom" timestamp="1606078122375">
+    <state width="1297" height="199" key="GridCell.Tab.0.bottom" timestamp="1606078407868">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382182" />
-    <state width="1297" height="199" key="GridCell.Tab.0.bottom/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078122375" />
-    <state width="1297" height="199" key="GridCell.Tab.0.center" timestamp="1606078122374">
+    <state width="1297" height="199" key="GridCell.Tab.0.bottom/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078407868" />
+    <state width="1297" height="199" key="GridCell.Tab.0.center" timestamp="1606078407867">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.center/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382180" />
-    <state width="1297" height="199" key="GridCell.Tab.0.center/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078122374" />
-    <state width="1297" height="199" key="GridCell.Tab.0.left" timestamp="1606078122374">
+    <state width="1297" height="199" key="GridCell.Tab.0.center/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078407867" />
+    <state width="1297" height="199" key="GridCell.Tab.0.left" timestamp="1606078407866">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.left/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382179" />
-    <state width="1297" height="199" key="GridCell.Tab.0.left/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078122374" />
-    <state width="1297" height="199" key="GridCell.Tab.0.right" timestamp="1606078122375">
+    <state width="1297" height="199" key="GridCell.Tab.0.left/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078407866" />
+    <state width="1297" height="199" key="GridCell.Tab.0.right" timestamp="1606078407867">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.right/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382181" />
-    <state width="1297" height="199" key="GridCell.Tab.0.right/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078122375" />
+    <state width="1297" height="199" key="GridCell.Tab.0.right/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606078407867" />
     <state x="-744" y="190" key="chooseDestDirectoryDialog" timestamp="1606075715849">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>

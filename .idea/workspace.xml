@@ -4,6 +4,7 @@
     <list default="true" id="9ec7e120-662f-4444-a549-ab07312cf3a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TreeMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TreeMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettestie/src/test/java/rocks/zipcode/TreeSetTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,54 +38,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.TreeMapTest">
-    <configuration name="LinkedListTest.linkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gettestie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rocks.zipcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rocks.zipcode" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.LinkedListTest" />
-      <option name="METHOD_NAME" value="linkedListTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gettestie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rocks.zipcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rocks.zipcode" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.PriorityQueueTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PriorityQueueTest.priorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gettestie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rocks.zipcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rocks.zipcode" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="priorityQueueTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TreeSetTest.treeSetTest">
     <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gettestie" />
       <extension name="coverage">
@@ -115,13 +69,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeMapTest.treeMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gettestie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.TreeMapTest" />
+      <option name="METHOD_NAME" value="treeMapTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetTest.treeMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gettestie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.TreeSetTest" />
+      <option name="METHOD_NAME" value="treeMapTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetTest.treeSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gettestie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.TreeSetTest" />
+      <option name="METHOD_NAME" value="treeSetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeSetTest.treeSetTest" />
+        <item itemvalue="JUnit.TreeSetTest.treeMapTest" />
+        <item itemvalue="JUnit.TreeMapTest.treeMapTest" />
         <item itemvalue="JUnit.TreeMapTest" />
         <item itemvalue="JUnit.StackTest" />
-        <item itemvalue="JUnit.PriorityQueueTest" />
-        <item itemvalue="JUnit.PriorityQueueTest.priorityQueueTest" />
-        <item itemvalue="JUnit.LinkedListTest.linkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,26 +145,26 @@
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state x="-1057" y="150" width="938" height="510" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606075546965" />
-    <state width="1297" height="199" key="GridCell.Tab.0.bottom" timestamp="1606082348205">
+    <state width="1297" height="199" key="GridCell.Tab.0.bottom" timestamp="1606082865240">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382182" />
-    <state width="1297" height="199" key="GridCell.Tab.0.bottom/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082348205" />
-    <state width="1297" height="199" key="GridCell.Tab.0.center" timestamp="1606082348204">
+    <state width="1297" height="199" key="GridCell.Tab.0.bottom/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082865240" />
+    <state width="1297" height="199" key="GridCell.Tab.0.center" timestamp="1606082865237">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.center/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382180" />
-    <state width="1297" height="199" key="GridCell.Tab.0.center/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082348204" />
-    <state width="1297" height="199" key="GridCell.Tab.0.left" timestamp="1606082348202">
+    <state width="1297" height="199" key="GridCell.Tab.0.center/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082865237" />
+    <state width="1297" height="199" key="GridCell.Tab.0.left" timestamp="1606082865234">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.left/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382179" />
-    <state width="1297" height="199" key="GridCell.Tab.0.left/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082348202" />
-    <state width="1297" height="199" key="GridCell.Tab.0.right" timestamp="1606082348205">
+    <state width="1297" height="199" key="GridCell.Tab.0.left/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082865234" />
+    <state width="1297" height="199" key="GridCell.Tab.0.right" timestamp="1606082865238">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state width="668" height="244" key="GridCell.Tab.0.right/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606077382181" />
-    <state width="1297" height="199" key="GridCell.Tab.0.right/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082348205" />
+    <state width="1297" height="199" key="GridCell.Tab.0.right/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082865238" />
     <state x="-744" y="190" key="chooseDestDirectoryDialog" timestamp="1606075715849">
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
@@ -171,5 +173,9 @@
       <screen x="-1440" y="23" width="1440" height="810" />
     </state>
     <state x="-862" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606075344964" />
+    <state x="-1103" y="69" width="670" height="676" key="search.everywhere.popup" timestamp="1606082936543">
+      <screen x="-1440" y="23" width="1440" height="810" />
+    </state>
+    <state x="-1103" y="69" width="670" height="676" key="search.everywhere.popup/0.23.1280.777/-1440.23.1440.810@-1440.23.1440.810" timestamp="1606082936543" />
   </component>
 </project>
